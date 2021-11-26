@@ -2,7 +2,7 @@
 
 namespace Budisetionugroho;
 
-class HaloDUnia
+class HaloDunia
 {
 	public function getMessage()
 	{
