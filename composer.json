@@ -1,0 +1,21 @@
+{
+    "name": "budisetionugroho123/demo-composer-akademi-batch-2",
+    "description": "demo composer",
+    "keywords": ["demo composer"],
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "budisetionugroho123\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4.0"
+    },
+    "authors": [
+        {
+            "name": "budisetionugroho123",
+            "email": "budi.setio@mail.sirclo.com"
+        }
+    ],
+    "license": "MIT"
+}
